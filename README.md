@@ -7,7 +7,6 @@ A RESTful API for a project management system built with Laravel. It provides en
 -   [Features](#features)
 -   [Prerequisites](#prerequisites)
 -   [Installation & Setup](#installation--setup)
--   [Postman Collections](#collection)
 -   [API Endpoints](#api-endpoints)
     -   [Authentication](#authentication)
     -   [Users](#users)
@@ -217,5 +216,6 @@ All endpoints are prefixed with `/api/v1`. Authenticated routes require a `Beare
 ```
 
 ---
+
 
 
